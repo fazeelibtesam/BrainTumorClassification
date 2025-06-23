@@ -1,5 +1,6 @@
 The best model is model 4 with 95.11% accuracy.
 
+Class Distribution(After One Hot Encoding):
 | Label | Class           |
 | ----- | --------------- |
 | 0     | Meningioma      | - 708     
