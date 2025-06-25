@@ -53,7 +53,7 @@ This repository contains multiple deep learning models to classify brain tumors 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/brain-tumor-classification-cnn.git
+git clone https://github.com/fazeelibtesam/brain-tumor-classification-cnn.git
 cd brain-tumor-classification-cnn
 
 # Create and activate a virtual environment (optional but recommended)
@@ -97,33 +97,18 @@ pip install -r requirements.txt
 
 * Implement advanced data augmentation
 * Test with more EfficientNet variants (B1–B3)
-* Deploy with TensorFlow Lite or ONNX for mobile inference
-
----
-
-## 🧪 Requirements
-
-```text
-tensorflow>=2.8.0
-numpy
-matplotlib
-scikit-learn
-opencv-python
-```
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache2.0 License](LICENSE).
 
 ---
 
 ## 🙌 Acknowledgments
 
-* MRI Dataset from [Open Access Series of Imaging Studies (OASIS)](https://www.oasis-brains.org/)
+* MRI Dataset from Cheng, Jun (2017)
 * Pretrained models via `keras.applications`
 
 ---
-
-Let me know if you'd like this adapted into a more technical or minimal style!
