@@ -112,3 +112,13 @@ This project is licensed under the [Apache2.0 License](LICENSE).
 * Pretrained models via `keras.applications`
 
 ---
+
+## 🤝 Contact for Collaboration
+
+I'm open to feedback, collaboration, or ideas for improvements. Feel free to reach out!
+
+* 📧 Email: [ibtesamfazeel@gmail.com](mailto:ibtesamfazeel@gmail.com)
+* 💼 LinkedIn: [https://linkedin.com/in/fazeel-ibtesam](https://linkedin.com/in/fazeel-ibtesam)
+* 🐙 GitHub: [https://github.com/fazeelibtesam](https://github.com/fazeelibtesam)
+
+---
