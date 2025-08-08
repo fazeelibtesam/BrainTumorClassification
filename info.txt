@@ -1,0 +1,35 @@
+The best model is model 4 with 95.11% accuracy.
+
+| Label | Class           |
+| ----- | --------------- |
+| 0     | Meningioma      | - 708     
+| 1     | Glioma          | - 1426
+| 2     | Pituitary tumor | - 930
+
+MODLE1-MobileNetV2(keras):
+    A lightweight, fast CNN
+    Pretrained on ImageNet
+    Good for small datasets and real-time applications
+ 
+MODEL2-ResNet50
+    A deep residual network
+    Pretrained on ImageNet
+    High accuracy, deeper architecture
+    Suitable for more powerful systems or larger datasets
+
+MODEL3-EfficientNetB0
+    Pretrained model
+    State-of-the-art model balancing speed and accuracy
+    Very efficient in parameter usage
+    Scalable to larger versions (B1–B7)
+
+MODEL4-Custom CNN (Best)
+    A simple Convolutional Neural Network built from scratch
+    Great for learning and fast experimentation
+    Added an `Input()` layer to avoid warnings
+    Fine-tuned versions of the above models
+    Output layer: `Dense(3, activation='softmax')`
+
+MODEL5-Custom CNN with BatchNormalization
+    A simple Convolutional Neural Network built from scratch with Normalization
+    Generalizes the model
